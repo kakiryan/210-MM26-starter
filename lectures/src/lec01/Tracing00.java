@@ -1,4 +1,4 @@
-package ls01;
+package lec01;
 
 public class Tracing00 {
     public static void main(String[] args) {
